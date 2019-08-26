@@ -1,0 +1,54 @@
+.pergunta h5 {
+    text-align: center;
+    margin: 50px 0 50px 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.pergunta form {  
+    margin-bottom: 30px;
+    display: flex;
+}
+
+.pergunta form button {
+    margin-left: 10px;
+}
+
+.pergunta .editar {
+    font-size: 20px;
+    color: #ffcc00;
+}
+
+.pergunta .delete {
+    margin-left: 7px;
+    font-size: 20px;
+    color: red;
+}
+
+.pergunta .editar:hover, .pergunta .delete:hover {
+    transform: translateY(-5px);
+    transition: all .2s;
+}
+
+.pergunta input {
+    margin: 0 20px 0 10px;
+}
+
+.pergunta form input:focus, .pergunta form select:focus, .pergunta form button:focus {
+    border: 0;
+    box-shadow: 0 0 0 0;
+    outline: 0;
+} 
+
+.pergunta .buttonVoltar {
+    margin: 30px 0 30px 0;
+}
+
+.pergunta .buttonVoltar:hover {
+    transform: translateY(-5px);
+    transition: all .2s;
+    transform: translateY(-5px);
+    transition: all .2s;
+    background: #000;
+    color: #FFF;
+}
