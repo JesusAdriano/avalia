@@ -1,5 +1,5 @@
 {
-  "name": "ath-testes-jesus",
+  "name": "testes-jesus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://git.intranet.bb.com.br:8113/gitrepos/ath-testes-jesus.git"
+    "url": "http://github.com/testes-jesus.git"
   },
   "keywords": [],
   "author": "",
